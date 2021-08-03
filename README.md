@@ -8,4 +8,12 @@ The Network is attempting to predict the correct answer to a pattern it is given
 # Things to Try
 - how does the variety of patterns effect the accuracy of the system? if 5 of the patterns have the answer of 0, is the system accurate when the answer is 1?
 - does the number of neurons in the system help it become more or less accurate?
-- if the system is off of its intended answer, why is that?
+- if the system is off of its intended answer, why is that? 
+
+# Dependencies
+- pyqt5
+- numpy
+
+# Running
+****ensure you have pyqt5 and numpy****
+python3 App_1.1.py
