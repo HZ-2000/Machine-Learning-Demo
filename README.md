@@ -16,4 +16,5 @@ The Network is attempting to predict the correct answer to a pattern it is given
 
 # Running
 ****ensure you have pyqt5 and numpy****
+
 python3 App_1.1.py
